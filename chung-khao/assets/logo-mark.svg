@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="edge" x1="7" y1="8" x2="57" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 3 57 17.5v29L32 61 7 46.5v-29L32 3Z" fill="#0B1222" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M32 15 45.5 23v17L32 48l-13.5-8V23L32 15Z" stroke="url(#edge)" stroke-width="2.4"/>
+  <path d="M32 15v17m13.5-9L32 32m13.5 8L32 32m-13.5 8L32 32M18.5 23 32 32" stroke="url(#edge)" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="32" cy="15" r="2.7" fill="#22D3EE"/><circle cx="45.5" cy="23" r="2.7" fill="#8B5CF6"/>
+  <circle cx="45.5" cy="40" r="2.7" fill="#EC4899"/><circle cx="32" cy="48" r="2.7" fill="#8B5CF6"/>
+  <circle cx="18.5" cy="40" r="2.7" fill="#22D3EE"/><circle cx="18.5" cy="23" r="2.7" fill="#22D3EE"/>
+  <circle cx="32" cy="32" r="6" fill="#22D3EE"/><circle cx="32" cy="32" r="2.4" fill="#0B1222"/>
+</svg>

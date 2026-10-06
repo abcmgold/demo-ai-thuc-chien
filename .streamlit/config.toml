@@ -1,0 +1,18 @@
+[theme]
+base = "light"
+primaryColor = "#356D52"
+backgroundColor = "#F5F3EC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#203128"
+borderColor = "#E3E5DC"
+baseRadius = "0.85rem"
+font = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap"
+
+[theme.sidebar]
+backgroundColor = "#173C32"
+secondaryBackgroundColor = "#214B3E"
+textColor = "#F6F4EA"
+
+[client]
+toolbarMode = "minimal"

@@ -1,0 +1,1942 @@
+{
+  "dataset_name": "dak_lak_travel_synthetic_samples",
+  "is_synthetic": false,
+  "price_status": "mixed_synthetic_and_web_unverified",
+  "currency": "VND",
+  "sample_scope": "One attraction visit, one meal, one overnight stay, and one group round trip from central Buon Ma Thuot.",
+  "notes": "Attraction names are reference labels. Hotel names, all prices, transport arrangements, and totals are synthetic examples, not live travel information. DL-051 added from web sources: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQgmOVlGaoVSOR_zEYUH83Qf91PcuExD3KHOiUJlIk8ShyE1iYxb1--fQ_yQqSUSC0HAtsQZ7Y7hgPmqSU6svoEqHUph6CfaL-FcEbXW0TI6nY65kEV-s488-w5JB6tO4kZTPlP4bXtTEoQXjdWD_myahxaj4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWYkIkD0o93nnktQCBN6rehmNumVUXhYu8l9Z5V8yi3eHLXOQip5yH1yqnInwhktdr5_qkl_mpOaeLcil8LaSHQOFRjKgOOaWGEvqLFOIsXipEFee9Su4laK_8aV1jES3Z0vxnVlYsIV6H8P9WLkDBQV4txT3TktzepgdJYrl1WBC6esHOy_yGG0atMSUd9gSXLkU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiqwRKdFY2yK9baiNL_Vd6CmMjZPQ2Eazk1iZaj0zt0hSiM9PG3kHxGOGrQOrnm0SaN3upSYgJj1kjoGXk4YpZms29xHe4_Cpb2f8BYfjri-3L_3VGwEmBb5w469ZHEZ11nvMhUE4h7cQ6Icav8do=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Jt3g5miFc6-nHwjaZYvAkC4brXY41XAvwko54pOu7_-S9P-9d-3BfWUD0HEk1GqbOi5jZVTN-Ls4iDx4f1TuiUchJQIijh6P4qmSZ_DxHFSUbdgiV40cAE9yBigXEBL4spJN71FESF6__MK7CPb2yQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Th0MDnCKyzwwfxb6YC_4V90cx6ncz_2aYTxtRzFwa1mujyQvXhuMuVt9ELJA7lvYQWAzz9-Et3HmLT-x3-uVfKeVH-neXGZ1ePkAkjEG6SK7JPhsRcUynKhyK57_aA0I4XnPZUl3wG7sYdBDp598Gr_vNUt2_N0o_eU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHqNxHODgmycl3Is2Aryaibmj0Ss_vS6hEps8CvJzEgINjbzmKkoI53EouBWsFjtvFWrZabQTxjdQMeF91QMUHF5f-C7g3QzNClqyViL8EWw611-Q-P9zQ1FZnsMw8ZVBWksEZMvcg45sGJsFZxUxTvbZAo9X2NHv8aOsrcuk-nlM7u7utlq-35ItRzlog9RzNacQExCvh, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGftnnSpEFYsVaLYhkz-ltD7HfyH7UcIupmzshUy14Gd9SaIZotxYEl3L1etLRvExEELDBP8SP8yDLcUwzNufHUSx5kvcMriEExG6P4kg9tH-nbJG5KRDyxOtyFAAmmH-nPa7LpZH01lCtp27bsAQrDkl1IDm4sZ0iZYGceZG-1p-bxcn4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlT8NfsFd0QXMFT2dMGjb2WgqkSUceYPD2OTEq-kaVYynn_XySU7NWexe8JV1DfDnrAjW7X3k4phA80WR5_FU3Z9BT2N2EpY3fqTPUXXLPm4lfr9lLvKGhp92srddID7Rz5MD2IT3jcRo=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2OQHne2AhnLmVfUWX45ZGdHolpx83wsP7cWWyYgAnxyk5u1Z-aWld1x9ZTNTtVRqeDrZYRn6E3UIQF9cNyn3dUt4va3EhlnLd4YMLR1UXA15tOTS4Vl9BUt-OqZ6s4GeJSkvYQgqWRjSWv9_sZjT-uzj, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF-N2t-S8WEe0vbYOqYzttCb7OoL_TOtxXIorh0nv9gKaETl0B-a8xo171ngGrwtJlOqUPwwxwsk6AbZgnDNVovBi0jh5OWAy9Rc4pM_zXoG-GeWMwAwjmVKoazRO-w08yGd4qvRE1qedkqENEZRmlA4Bo5WZqoKFgBAEhBqjt3Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTxS13BZ7IkWwdK8ofkwUfpxEFqpwjR3afwJbbEC0eSayyQ4g2dbUZFn5d3Tub8e-t_FYBI0d3zCtG4JOWri4WLxOezO79exVLqAbw_NFF4YTQopFebLDTRfvZ4bGM4iklfjTULzXR9xQsTuO_sk8nwuVTBmhX5fWua-D5IGXHzoAjMZaFzxi0jfg5N1n8pw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUtZ8AR04T_ttLwrzhbSncLb2umCF9Ll93uf6m2fPFmUqfbhPNAXA9GFoiAagwkFYczi8_tvXmEmxs-dh1oVMNz9MDUuExXPTpoCeg1T5CytZvmIGkgsab4d_muK-LLf2tTj1N8t01fDLJksGIKStWQogTSJRkDTGQ_OkbCCqlFwOFUgkHoGg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX29uy7OckoKLayKZ-5Hp7n2nw9oQS8w7hcXDGq_oVo_3okCiIb8xrqulKyEYGX0bSDChOuhbHX7fRRM_vRZ7c1bN9NAQgL-n6nCQvPnNv5GCSXiwTqsUPN10GiNOLGV1p6_Pr4xo5NxZbzx4f6pQXAGxEZdM1RZHcqg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWbGu010GMppGCUGBis768V3FODFWa3VVCE56byXh0ceSTc-6FImtdj_RumtdovVxwGq5GAWjRWdtNlm1n3vc5jFcC5LB5tJSpCO07z8vEbPKPG5XNK2-2KiCfBaWtwrXHn9Nl_BGZx2M71_CteNwZBIUllkvZC-Uq7F4eumWwaBUQy2v9EgX8YiV3LwEWlDXB2W7Dk7RvXKEYTKB57g0BXpHt0wiW-P-Coqr8DjP7OgWnCPskOIKif8tbQSq6jRfn7r4CdMyg6rmtCYMN1oNCmkF0HGGZ0pq8aqm_oFb3cGOY0Nk-3Gz7NbTe7LDiQgMPAwMg9IAv-uFCe0ViY6kcpaX4ka2xnQGbUTjfSjT1pSJfXI82IVPjDwWnkQYWKynQWxsvKJh3vMlneDbGeJeafv2pZBGPUlzM9zlQhw==. DL-052 added from web sources: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsz1_zow3r5UFr1lU1eVUORda13EUfX09ZjlSti2WyP5qszAHBSn7sQ83qszKg44wd70Z1NiyRSXa7YuM5C0UO7Eg8vutR6K15B77zcx2kjzMPTMpmhJRAxETqG691nBPCWpQvvppvjxg9LuQ-KWB5gH_tQwFpZTYZ1B7JQpDQgYJOjnGfbJN23oJOClFAJQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc07L_5s7ynw5LoISkh33vFp9DkftXhntEHV7LFrp86RZ9FZxnCfGDJ5hY6YhhyOscp_hRzFiSFOret5Heu_Ii0R28bHoipDKeQnmkNH8dSRgeMwxMQujIFM1uoidKNBanSCZF18vzGpiPRzo7DxdxJxYTeHT85iF6JkVd8KPnZiDmNSmOPbQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbt3BLbvNn2wKNsS-lCF5aBLGXUWRbwghYXGGGyXcczH-ROllT-m7aWNij5voVMuC5Or0nrywvqpECz4-j2vpskAr4vPz-OuWWA3QrWtXdtzdoWOPNpyLsEeznE6C4FUs-htQWtrDFsMI-bBsGXruFZgnsiFgInJR5IAyNDHU8EuTlS5V5dFl, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ChSmax35Wss0aCrKktb0KJIaLiZ63bd9p2lVreTViaVHpSm2qS-bftWh0nPOKgm3WBSp8njbn7vHpcMRtjzN9ew3U0hZpb5dBnhmsVPzYINjQgZCk6DBQktWwyF3s_rYZABM1Jmr5T5wAVxLvTYvUZ8Y2Zr4rXGRAzLQli-akPih92q_xTKXXs_4Yz1pXOcJqAlr-xqz3Y6XmPc1LAfzB1DT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIPuoJTgVWluAe0CPEVUu_tkWOkHSndX3o1R6x1NDXkZj3iiQ6HVSzrrW4g9pU7QhOrMHJfXER3Q_sTOYbQhf68G2J5f4qlbcnZYhI5xpIbvq5qPRk8FkloVNNLFI_XwoJpmJMC_xzCoRSM7WNp39HJtPMjLI3awWX0XR9S2sMN98dff7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGty1u-CJLW3etb-Ynl2ZlJGzb0SsfN4ZCns2vbNhSMY-x_mQ-PgGPxo7x_y1CYnhmhHzkCUP5Jji87zEefU08UZxh3PKgAYRx0Sq3yvgcv4J2T0yTH0Km6aIGT3BDr5Zbf3-CeflDFLjWMttE0c_6C5sXismiJZ_iwaWxZgTnWwfOXY_Q=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDB8SdlhOenWkr-QVDET2P4ifdP7pDXTty_HAvID-cGkaIINlduMezY_cKhTjBpTv4N3HzsfCIIMkOBMlyHMFXyPog6WHVTbC1y4dlss2uEX6eNwg67z4aPgTTCesHuBaievPUWOvUmpAdUXpfllRqcUvzWQAwAnJ7Xfxn26-PszqJAEbc3MkUr0Oj. DL-053 added from web sources: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCrPsCNNdXmIX5Gp36u0KAQd6pRCCusEL_NqDuKuOdNflas1zr-xd_5s9HpAB7b1QnaurY1GgQn2wbrKKPp3yYbqlKxLg9kGzIkCkz6CW-g8g-0seWYzOsRVkwZZ_DrnI9TPWoRYyD-wsLMvz8U2kdFvWnAU4Ko1hJVGtQ3swEb13gEXWihHfFB0pA4t5Ug0I9zML44hshwwfL0wQlgsrtR2BKB1VJjwWmOw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNXUTKGQ2rNaaa1f0_4pqZfZTpacuiyDdadhM6F2yeZef2WPdouordYPrnzW-KFPczeKrr2weCMXeM68iZpzm1WdUaykfKtweeP8oBSHzkjE3cLOV_6uWfC6dRugY4bH4pwCL9Dtx_uAs-fn-g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqRx0t3jeY_rGC3QtP4d7oZFeRV0a3VPRcD8nzEpB5pEOeFNYNsGibEc96xNxmi7Zgu_tKK5bYAS_0ufolr8wHbj3rtlX8UoHATx87MvIglTt-_4ZIu_RyLLc7LfEIGdZtuJLXNnFAEk0h6DrgPWkLpwAwdPBrYL2q3kRDEV2up676XJ7f6PyhUfrFqde44emaYbGJbT81XUVEH1iTjDmp-xFeA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7fYjAWTpQq8x2pyebMZ3NJ2q9yuBZKRHlyz64tBypukQh_AgE4i4omf_ppUF5KdS3TKFIiF9PLMD5tP4_b4WNDBSM31muy87IhUpwisDVsWkFpjcv7E7k4wpgnU9aNuaKY73UCvc3Lk7MXeYp, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhbxTrqRGaGBfbiFGKTlBgwtO3EnxSs0h9C1N2rFWzBGoFZMrLkjb4YMZ80DdUg5V-2Xl2l4Dk6PTaI10muHu74liFLqlgXSEhj6jIBzLC4L5Ou4qi-xTIrCvekBJx0DZ2UByJ1GsUwFyhn8Ji7J9PTX1QpOsKLtdOhLPseA_9f79C8q37wTthg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4_SKEG3th5qSeog58TZO2j6leOmP096AnlHQwXz8czCJ-8FH2RelR4g1khBPBG1cMv_qI3bElc-4UXhIgXUWXe5dBwu-iYPkiQQIhaWnon5dR2BUu-TO0KiypwZkV_DKgcVVhAFKhRk3pwsyWEaNv0zaneA6HwBptDXP9VxgTkGTguoTU6g-E_CB8kyBZ3YnW, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUOg8sdseb8zZT3RnZCnuBxA82-9fmfUUmVda2vf2B9W3escTFo9y4GJTvw9iID0X-twVp7P2t6O-2l2Cu5NGluA9gklYoWmOCZ_fL. DL-054 added from web sources: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HNFLkhKX-mAOkLnIulhD7ZBw19T_Z6AwObuOBBxRty8O-y1j9iF03I1Df3vMErRmuJu7APdPgF-IzA7Z0pn5fTtah-hO1RMFTr38GE5hVr1kGlAuv0b409-H3roVFyuztpQ4jkNqpG4nNozdlRHh66eY0oNvk_ytj3uc8TnO_dsob_meJ9JTlYAQWqWIJxPhTUWrCzdHXB9AA5KfwbfpgXKEDw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVfe3QE3weuNgj57DJd-zCcVKgMEXJbYh3cmeSApZVXh_L7I_x6Zdo5aNOUotJ8E_WrGKqIPxEtnUkFqvSC6NMCNyjJl9_ZSjZ07VSe_Ad2jwL3LgoX8FrcrP1ZCWK3rll_trbfoF8A7dk5BaF, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp9N13WEC5lj9mkFrchMK1iaO-Q5QVfP9ZQNeCu7zcXsOvCn0Yy7SnD5Wryff3Vfla2voOUjtww914orApjdWw3Hh8HbYaH9UAeCr51EvLGCCJXrXI4mfyTfzRDWxei3s4ehe8crHLkRLWj0UbOiyOPnkVHTP7UYOcys0mGcTvu-vsr3EpiC5bjQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGavIaeXZ6ZEg4AKMC3CMSB4H-zoNGMZanw0sabHAshL9nUydd5iDe13o3e8z8Rl_2f0oITn5BVf0Fns2BphSVvpZ355R13jdcQDEyqnslBk8hcWb0dobI6pQwt7-F19u5n9LilCtUJ3bvr63Za-_KIKWwanBqs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4n1tkRnAk5tO1yvoAj7hMfcDto2MGYO2dWiBXY1vtCZDLjdtVQghGI3QbxsYCYskzdkf_F_ZkNwNVJrqFLYRcoHrtV5RxjGdVFcAtvj02OhdtoAWupzNYpGxe7xcah4NhJr7kdWbZ1qc3vpQANCiSisJBus2IBWOj_XrgTw1pFzxjReWhjuK4oT00KNgPy9-hFQ==. DL-055 added from web sources: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Thru8fgiUjdRuw4yLwq5IpXhQO8S__6Ao2mhXQRsohAmqDEoH9BPFuDDLHVwZeklrl0O9_oQlFeGvU-EJlneunkEjShfkO3NsP6fe7G5TnXHTLV-IAxUQIdQBdtl91Ezw54tP0CvmHe5loe976ZZ9Hk24kseQgmJ-F0xYqj4RkB8yAYxCsT22o4LoH3P4tOaIpn00EuLRLr5imehnA5UzQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqghm86VXVHdG8aG-7j0fxUHLQIIUEz56yiv0ly4dJ4UMqrTVZfQed-LMmFCuHIYnktMuvjYM7Zudp7NKgVUUz22VrsnfQxYNFsOv2_0UoK5GQNYTqQlT1nJzN1U099nAQiaY29XvBxOzDHm3oZNMEtDet7voT3xdFcoBmVfFeJYxntNJmzG67tBV8htcAhJ9c4kfN, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0kFU-nvEz8oboF7IeO7dJIh00Lbmx2sVxutF_3CafbKx6wAuT-WyN3kqcVXllxVXuz6BkgQPu4fMtCpt4Ku_P7EYyAovR2xpH4lTU_Dta6SN7Jwk9KFvUNwgVJ5d8vaqtJ3Wp55fPGesPkktVI9eVSL1bq0PoOoY5TOVbJolTSqZl9p8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcg94nSFmXxuIHCc-MIay-DmuncJ4C_BUF3HBSHO65HxudNrrwScCzZMZR-bNXAuYppiyTA1hCo7agh0yUxK4AkokbUWRTRTERxA4sqFBNUT0lMgwOwIGYhglkmiMl_TTfw9Jz75hojg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx4eTIJ9qfY0tRtTWgmqens8FwoMFOco8nGpl-oLZ1PZQsFiCRVLD2G9dRsTpDiEgDEWgLY1_3T5-7drUdIqlV8whACUtK2WH-SrWxVzJfLFhdqPfxYNKSnaBY7E8vRX5BQi2dRmNWTkHYhVWlM5afKk0HZqouT8hc-jnHGHvMN8RfpjWFDZhCRDAun74Da4yC2IRoBHM2eUYxs1Qe3c3FLDv10NIk6YEivCt-, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJI9DIwLx100iytAAm-StXCuEyuxgJ3irFuF9ZITLYUOYL0NRk_mnp4ORXveKhz9W6d_8Fb0xHDbJV4QqgqmelcA_2R26h-py17jWhkc_Fz8UNoNeOO4oizz13HWlFmFaDZyA2Zw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFppBRqXOn4q8i-j_vW5o7dz1oeDo1-OxJ-48FJ0R8M2gAsEBDmLSylIVyvMJNmCon-Cj4YQy0-gEIgCJAntVgROj12Jd1Xy5WmtiISzfSqCdJ1rvO086rtDuGgnOccA6mBrnWeT3VpuVsCeTKkoQR8UpGXqzTuZ3KYEpYj-vHg1hoPWwY2uc-MzoA8QETU4hEqFNcxPmHqHPqS7KjywlflvR7aaj9Ybaz8apVzdH_Davo_DW0RjTx2yIXUKA4ZY4cN76KFu3kEC1rd5QN2uRvdPvXgTrwCaYeMIjMzfIcTe_GGq1pNk7doSBWnsyDqWsOaPKxQThMae2WqWWH_2XTpn_0X7j2ffyveUdTSIVPYGNR_hpzg5K6f6roV7VTcvAuhr7hX7xYLdetaotbb, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcHZhWOe7Yvp7fpt5FZ_klsNbqUCQNGoKsRdW5wJDqDFw1RU86PW4uMRXvXZ2AWNO5bYoRx8HCT-7iB7ALJQVkb4k1Y40Ziauyv6A8hDxP82Yqo6xwmjcJVxcZe5Fg5B88jenr0a66qdmaMgdsGN5ExmtwyfvQi_LCxQESLDvW.",
+  "sample_count": 55,
+  "samples": [
+    {
+      "id": "DL-001",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "cà phê",
+          "bảo tàng"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 1",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": 80000
+      },
+      "sample_total_vnd": 555000
+    },
+    {
+      "id": "DL-002",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "cà phê",
+          "bảo tàng"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 2",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": 100000
+      },
+      "sample_total_vnd": 860000
+    },
+    {
+      "id": "DL-003",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "cà phê",
+          "bảo tàng"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 3",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": 200000
+      },
+      "sample_total_vnd": 1230000
+    },
+    {
+      "id": "DL-004",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "cà phê",
+          "bảo tàng"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 4",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": 260000
+      },
+      "sample_total_vnd": 2500000
+    },
+    {
+      "id": "DL-005",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "cà phê",
+          "bảo tàng"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 5",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": 360000
+      },
+      "sample_total_vnd": 3420000
+    },
+    {
+      "id": "DL-006",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Đắk Lắk",
+        "area": "Buôn Ma Thuột",
+        "category": "bảo tàng",
+        "interest_tags": [
+          "lịch sử",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 1",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Bánh ướt thịt nướng",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Đắk Lắk",
+        "cost_vnd_per_group_round_trip": 70000
+      },
+      "sample_total_vnd": 425000
+    },
+    {
+      "id": "DL-007",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Đắk Lắk",
+        "area": "Buôn Ma Thuột",
+        "category": "bảo tàng",
+        "interest_tags": [
+          "lịch sử",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 2",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Bánh ướt thịt nướng",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Đắk Lắk",
+        "cost_vnd_per_group_round_trip": 80000
+      },
+      "sample_total_vnd": 600000
+    },
+    {
+      "id": "DL-008",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Đắk Lắk",
+        "area": "Buôn Ma Thuột",
+        "category": "bảo tàng",
+        "interest_tags": [
+          "lịch sử",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 3",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Bánh ướt thịt nướng",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Đắk Lắk",
+        "cost_vnd_per_group_round_trip": 180000
+      },
+      "sample_total_vnd": 970000
+    },
+    {
+      "id": "DL-009",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Đắk Lắk",
+        "area": "Buôn Ma Thuột",
+        "category": "bảo tàng",
+        "interest_tags": [
+          "lịch sử",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 4",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Bánh ướt thịt nướng",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Đắk Lắk",
+        "cost_vnd_per_group_round_trip": 230000
+      },
+      "sample_total_vnd": 1990000
+    },
+    {
+      "id": "DL-010",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Bảo tàng Đắk Lắk",
+        "area": "Buôn Ma Thuột",
+        "category": "bảo tàng",
+        "interest_tags": [
+          "lịch sử",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 5",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Bánh ướt thịt nướng",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Đắk Lắk",
+        "cost_vnd_per_group_round_trip": 320000
+      },
+      "sample_total_vnd": 2900000
+    },
+    {
+      "id": "DL-011",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Akô Dhông",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "kiến trúc"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 1",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Akô Dhông",
+        "cost_vnd_per_group_round_trip": 80000
+      },
+      "sample_total_vnd": 405000
+    },
+    {
+      "id": "DL-012",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Akô Dhông",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "kiến trúc"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 2",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Akô Dhông",
+        "cost_vnd_per_group_round_trip": 100000
+      },
+      "sample_total_vnd": 560000
+    },
+    {
+      "id": "DL-013",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Akô Dhông",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "kiến trúc"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 3",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Akô Dhông",
+        "cost_vnd_per_group_round_trip": 200000
+      },
+      "sample_total_vnd": 930000
+    },
+    {
+      "id": "DL-014",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Akô Dhông",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "kiến trúc"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 4",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Akô Dhông",
+        "cost_vnd_per_group_round_trip": 260000
+      },
+      "sample_total_vnd": 1900000
+    },
+    {
+      "id": "DL-015",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Akô Dhông",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "kiến trúc"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 5",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Akô Dhông",
+        "cost_vnd_per_group_round_trip": 360000
+      },
+      "sample_total_vnd": 2820000
+    },
+    {
+      "id": "DL-016",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Chùa Sắc Tứ Khải Đoan",
+        "area": "Buôn Ma Thuột",
+        "category": "di sản tâm linh",
+        "interest_tags": [
+          "kiến trúc",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 1",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Chùa Sắc Tứ Khải Đoan",
+        "cost_vnd_per_group_round_trip": 70000
+      },
+      "sample_total_vnd": 395000
+    },
+    {
+      "id": "DL-017",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Chùa Sắc Tứ Khải Đoan",
+        "area": "Buôn Ma Thuột",
+        "category": "di sản tâm linh",
+        "interest_tags": [
+          "kiến trúc",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 2",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Chùa Sắc Tứ Khải Đoan",
+        "cost_vnd_per_group_round_trip": 80000
+      },
+      "sample_total_vnd": 540000
+    },
+    {
+      "id": "DL-018",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Chùa Sắc Tứ Khải Đoan",
+        "area": "Buôn Ma Thuột",
+        "category": "di sản tâm linh",
+        "interest_tags": [
+          "kiến trúc",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 3",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Chùa Sắc Tứ Khải Đoan",
+        "cost_vnd_per_group_round_trip": 180000
+      },
+      "sample_total_vnd": 910000
+    },
+    {
+      "id": "DL-019",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Chùa Sắc Tứ Khải Đoan",
+        "area": "Buôn Ma Thuột",
+        "category": "di sản tâm linh",
+        "interest_tags": [
+          "kiến trúc",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 4",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Chùa Sắc Tứ Khải Đoan",
+        "cost_vnd_per_group_round_trip": 230000
+      },
+      "sample_total_vnd": 1870000
+    },
+    {
+      "id": "DL-020",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Chùa Sắc Tứ Khải Đoan",
+        "area": "Buôn Ma Thuột",
+        "category": "di sản tâm linh",
+        "interest_tags": [
+          "kiến trúc",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 5",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Chùa Sắc Tứ Khải Đoan",
+        "cost_vnd_per_group_round_trip": 320000
+      },
+      "sample_total_vnd": 2780000
+    },
+    {
+      "id": "DL-021",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Làng cà phê Trung Nguyên",
+        "area": "Buôn Ma Thuột",
+        "category": "trải nghiệm cà phê",
+        "interest_tags": [
+          "cà phê",
+          "ẩm thực"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 1",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Cà phê và bánh địa phương",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Làng cà phê Trung Nguyên",
+        "cost_vnd_per_group_round_trip": 90000
+      },
+      "sample_total_vnd": 415000
+    },
+    {
+      "id": "DL-022",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Làng cà phê Trung Nguyên",
+        "area": "Buôn Ma Thuột",
+        "category": "trải nghiệm cà phê",
+        "interest_tags": [
+          "cà phê",
+          "ẩm thực"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 2",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Cà phê và bánh địa phương",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Làng cà phê Trung Nguyên",
+        "cost_vnd_per_group_round_trip": 110000
+      },
+      "sample_total_vnd": 570000
+    },
+    {
+      "id": "DL-023",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Làng cà phê Trung Nguyên",
+        "area": "Buôn Ma Thuột",
+        "category": "trải nghiệm cà phê",
+        "interest_tags": [
+          "cà phê",
+          "ẩm thực"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 3",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Cà phê và bánh địa phương",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Làng cà phê Trung Nguyên",
+        "cost_vnd_per_group_round_trip": 230000
+      },
+      "sample_total_vnd": 960000
+    },
+    {
+      "id": "DL-024",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Làng cà phê Trung Nguyên",
+        "area": "Buôn Ma Thuột",
+        "category": "trải nghiệm cà phê",
+        "interest_tags": [
+          "cà phê",
+          "ẩm thực"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 4",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Cà phê và bánh địa phương",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Làng cà phê Trung Nguyên",
+        "cost_vnd_per_group_round_trip": 300000
+      },
+      "sample_total_vnd": 1940000
+    },
+    {
+      "id": "DL-025",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Làng cà phê Trung Nguyên",
+        "area": "Buôn Ma Thuột",
+        "category": "trải nghiệm cà phê",
+        "interest_tags": [
+          "cà phê",
+          "ẩm thực"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 5",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Cà phê và bánh địa phương",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Làng cà phê Trung Nguyên",
+        "cost_vnd_per_group_round_trip": 410000
+      },
+      "sample_total_vnd": 2870000
+    },
+    {
+      "id": "DL-026",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Khu du lịch Ko Tam",
+        "area": "Buôn Ma Thuột",
+        "category": "sinh thái",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 1",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Khu du lịch Ko Tam",
+        "cost_vnd_per_group_round_trip": 120000
+      },
+      "sample_total_vnd": 495000
+    },
+    {
+      "id": "DL-027",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Khu du lịch Ko Tam",
+        "area": "Buôn Ma Thuột",
+        "category": "sinh thái",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 2",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Khu du lịch Ko Tam",
+        "cost_vnd_per_group_round_trip": 140000
+      },
+      "sample_total_vnd": 700000
+    },
+    {
+      "id": "DL-028",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Khu du lịch Ko Tam",
+        "area": "Buôn Ma Thuột",
+        "category": "sinh thái",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 3",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Khu du lịch Ko Tam",
+        "cost_vnd_per_group_round_trip": 300000
+      },
+      "sample_total_vnd": 1130000
+    },
+    {
+      "id": "DL-029",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Khu du lịch Ko Tam",
+        "area": "Buôn Ma Thuột",
+        "category": "sinh thái",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 4",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Khu du lịch Ko Tam",
+        "cost_vnd_per_group_round_trip": 400000
+      },
+      "sample_total_vnd": 2240000
+    },
+    {
+      "id": "DL-030",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Khu du lịch Ko Tam",
+        "area": "Buôn Ma Thuột",
+        "category": "sinh thái",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Ma Thuột 5",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Khu du lịch Ko Tam",
+        "cost_vnd_per_group_round_trip": 540000
+      },
+      "sample_total_vnd": 3200000
+    },
+    {
+      "id": "DL-031",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Thác Dray Nur",
+        "area": "Krông Ana",
+        "category": "thác nước",
+        "interest_tags": [
+          "thiên nhiên",
+          "chụp ảnh"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Krông Ana 1",
+        "area": "Krông Ana",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Gà nướng cơm lam",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 220000
+      },
+      "sample_total_vnd": 595000
+    },
+    {
+      "id": "DL-032",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Thác Dray Nur",
+        "area": "Krông Ana",
+        "category": "thác nước",
+        "interest_tags": [
+          "thiên nhiên",
+          "chụp ảnh"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Krông Ana 2",
+        "area": "Krông Ana",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Gà nướng cơm lam",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 260000
+      },
+      "sample_total_vnd": 820000
+    },
+    {
+      "id": "DL-033",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Thác Dray Nur",
+        "area": "Krông Ana",
+        "category": "thác nước",
+        "interest_tags": [
+          "thiên nhiên",
+          "chụp ảnh"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Krông Ana 3",
+        "area": "Krông Ana",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Gà nướng cơm lam",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 550000
+      },
+      "sample_total_vnd": 1380000
+    },
+    {
+      "id": "DL-034",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Thác Dray Nur",
+        "area": "Krông Ana",
+        "category": "thác nước",
+        "interest_tags": [
+          "thiên nhiên",
+          "chụp ảnh"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Krông Ana 4",
+        "area": "Krông Ana",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Gà nướng cơm lam",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 730000
+      },
+      "sample_total_vnd": 2570000
+    },
+    {
+      "id": "DL-035",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Thác Dray Nur",
+        "area": "Krông Ana",
+        "category": "thác nước",
+        "interest_tags": [
+          "thiên nhiên",
+          "chụp ảnh"
+        ],
+        "entrance_cost_vnd_per_person": 50000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Krông Ana 5",
+        "area": "Krông Ana",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Gà nướng cơm lam",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 990000
+      },
+      "sample_total_vnd": 3650000
+    },
+    {
+      "id": "DL-036",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Hồ Lắk",
+        "area": "Lắk",
+        "category": "hồ và thiên nhiên",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Lắk 1",
+        "area": "Lắk",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Cá hồ nướng",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Hồ Lắk",
+        "cost_vnd_per_group_round_trip": 320000
+      },
+      "sample_total_vnd": 645000
+    },
+    {
+      "id": "DL-037",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Hồ Lắk",
+        "area": "Lắk",
+        "category": "hồ và thiên nhiên",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Lắk 2",
+        "area": "Lắk",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Cá hồ nướng",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Hồ Lắk",
+        "cost_vnd_per_group_round_trip": 380000
+      },
+      "sample_total_vnd": 840000
+    },
+    {
+      "id": "DL-038",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Hồ Lắk",
+        "area": "Lắk",
+        "category": "hồ và thiên nhiên",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Lắk 3",
+        "area": "Lắk",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Cá hồ nướng",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Hồ Lắk",
+        "cost_vnd_per_group_round_trip": 800000
+      },
+      "sample_total_vnd": 1530000
+    },
+    {
+      "id": "DL-039",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Hồ Lắk",
+        "area": "Lắk",
+        "category": "hồ và thiên nhiên",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Lắk 4",
+        "area": "Lắk",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Cá hồ nướng",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Hồ Lắk",
+        "cost_vnd_per_group_round_trip": 1060000
+      },
+      "sample_total_vnd": 2700000
+    },
+    {
+      "id": "DL-040",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Hồ Lắk",
+        "area": "Lắk",
+        "category": "hồ và thiên nhiên",
+        "interest_tags": [
+          "thiên nhiên",
+          "văn hóa"
+        ],
+        "entrance_cost_vnd_per_person": 0
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Lắk 5",
+        "area": "Lắk",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Cá hồ nướng",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Hồ Lắk",
+        "cost_vnd_per_group_round_trip": 1440000
+      },
+      "sample_total_vnd": 3900000
+    },
+    {
+      "id": "DL-041",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Đôn",
+        "area": "Buôn Đôn",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "thiên nhiên"
+        ],
+        "entrance_cost_vnd_per_person": 40000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 1",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Đôn",
+        "cost_vnd_per_group_round_trip": 300000
+      },
+      "sample_total_vnd": 665000
+    },
+    {
+      "id": "DL-042",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Đôn",
+        "area": "Buôn Đôn",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "thiên nhiên"
+        ],
+        "entrance_cost_vnd_per_person": 40000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 2",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Đôn",
+        "cost_vnd_per_group_round_trip": 360000
+      },
+      "sample_total_vnd": 900000
+    },
+    {
+      "id": "DL-043",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Đôn",
+        "area": "Buôn Đôn",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "thiên nhiên"
+        ],
+        "entrance_cost_vnd_per_person": 40000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 3",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Đôn",
+        "cost_vnd_per_group_round_trip": 750000
+      },
+      "sample_total_vnd": 1560000
+    },
+    {
+      "id": "DL-044",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Đôn",
+        "area": "Buôn Đôn",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "thiên nhiên"
+        ],
+        "entrance_cost_vnd_per_person": 40000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 4",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Đôn",
+        "cost_vnd_per_group_round_trip": 990000
+      },
+      "sample_total_vnd": 2790000
+    },
+    {
+      "id": "DL-045",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Buôn Đôn",
+        "area": "Buôn Đôn",
+        "category": "văn hóa cộng đồng",
+        "interest_tags": [
+          "văn hóa",
+          "thiên nhiên"
+        ],
+        "entrance_cost_vnd_per_person": 40000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 5",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Cơm lam gà nướng",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Buôn Đôn",
+        "cost_vnd_per_group_round_trip": 1350000
+      },
+      "sample_total_vnd": 3970000
+    },
+    {
+      "id": "DL-046",
+      "profile": "solo_tiet_kiem",
+      "profile_label": "Một người tiết kiệm",
+      "party_size": 1,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Vườn quốc gia Yok Đôn",
+        "area": "Buôn Đôn",
+        "category": "vườn quốc gia",
+        "interest_tags": [
+          "thiên nhiên",
+          "khám phá"
+        ],
+        "entrance_cost_vnd_per_person": 60000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 1",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 280000
+      },
+      "food": {
+        "item": "Cơm phần địa phương",
+        "cost_vnd_per_person_per_meal": 45000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Vườn quốc gia Yok Đôn",
+        "cost_vnd_per_group_round_trip": 380000
+      },
+      "sample_total_vnd": 765000
+    },
+    {
+      "id": "DL-047",
+      "profile": "cap_doi_tiet_kiem",
+      "profile_label": "Hai người tiết kiệm",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Vườn quốc gia Yok Đôn",
+        "area": "Buôn Đôn",
+        "category": "vườn quốc gia",
+        "interest_tags": [
+          "thiên nhiên",
+          "khám phá"
+        ],
+        "entrance_cost_vnd_per_person": 60000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 2",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 350000
+      },
+      "food": {
+        "item": "Cơm phần địa phương",
+        "cost_vnd_per_person_per_meal": 55000
+      },
+      "transport": {
+        "mode": "xe máy thuê",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Vườn quốc gia Yok Đôn",
+        "cost_vnd_per_group_round_trip": 460000
+      },
+      "sample_total_vnd": 1040000
+    },
+    {
+      "id": "DL-048",
+      "profile": "cap_doi_tieu_chuan",
+      "profile_label": "Hai người tiêu chuẩn",
+      "party_size": 2,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Vườn quốc gia Yok Đôn",
+        "area": "Buôn Đôn",
+        "category": "vườn quốc gia",
+        "interest_tags": [
+          "thiên nhiên",
+          "khám phá"
+        ],
+        "entrance_cost_vnd_per_person": 60000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 3",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 550000
+      },
+      "food": {
+        "item": "Cơm phần địa phương",
+        "cost_vnd_per_person_per_meal": 90000
+      },
+      "transport": {
+        "mode": "taxi",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Vườn quốc gia Yok Đôn",
+        "cost_vnd_per_group_round_trip": 950000
+      },
+      "sample_total_vnd": 1800000
+    },
+    {
+      "id": "DL-049",
+      "profile": "nhom_bon_tieu_chuan",
+      "profile_label": "Nhóm bốn tiêu chuẩn",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Vườn quốc gia Yok Đôn",
+        "area": "Buôn Đôn",
+        "category": "vườn quốc gia",
+        "interest_tags": [
+          "thiên nhiên",
+          "khám phá"
+        ],
+        "entrance_cost_vnd_per_person": 60000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 4",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 650000
+      },
+      "food": {
+        "item": "Cơm phần địa phương",
+        "cost_vnd_per_person_per_meal": 85000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Vườn quốc gia Yok Đôn",
+        "cost_vnd_per_group_round_trip": 1250000
+      },
+      "sample_total_vnd": 3130000
+    },
+    {
+      "id": "DL-050",
+      "profile": "nhom_bon_thoai_mai",
+      "profile_label": "Nhóm bốn thoải mái",
+      "party_size": 4,
+      "stay_nights": 1,
+      "travel_location": {
+        "name": "Vườn quốc gia Yok Đôn",
+        "area": "Buôn Đôn",
+        "category": "vườn quốc gia",
+        "interest_tags": [
+          "thiên nhiên",
+          "khám phá"
+        ],
+        "entrance_cost_vnd_per_person": 60000
+      },
+      "hotel": {
+        "name": "Lưu trú giả lập Buôn Đôn 5",
+        "area": "Buôn Đôn",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 950000
+      },
+      "food": {
+        "item": "Cơm phần địa phương",
+        "cost_vnd_per_person_per_meal": 140000
+      },
+      "transport": {
+        "mode": "xe ô tô",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Vườn quốc gia Yok Đôn",
+        "cost_vnd_per_group_round_trip": 1710000
+      },
+      "sample_total_vnd": 4410000
+    },
+    {
+      "id": "DL-051",
+      "profile": "web_tieu_chuan",
+      "profile_label": "Hai người, thiên nhiên và cà phê",
+      "party_size": 2,
+      "stay_nights": 2,
+      "travel_location": {
+        "name": "Thác Dray Nur",
+        "area": "Đắk Lắk",
+        "category": "thác nước thiên nhiên",
+        "interest_tags": [
+          "thiên nhiên",
+          "cà phê"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Mường Thanh Luxury Buôn Ma Thuột",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 1600000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": null
+      },
+      "transport": {
+        "mode": "thuê xe máy",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 190000
+      },
+      "sample_total_vnd": null,
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQgmOVlGaoVSOR_zEYUH83Qf91PcuExD3KHOiUJlIk8ShyE1iYxb1--fQ_yQqSUSC0HAtsQZ7Y7hgPmqSU6svoEqHUph6CfaL-FcEbXW0TI6nY65kEV-s488-w5JB6tO4kZTPlP4bXtTEoQXjdWD_myahxaj4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWYkIkD0o93nnktQCBN6rehmNumVUXhYu8l9Z5V8yi3eHLXOQip5yH1yqnInwhktdr5_qkl_mpOaeLcil8LaSHQOFRjKgOOaWGEvqLFOIsXipEFee9Su4laK_8aV1jES3Z0vxnVlYsIV6H8P9WLkDBQV4txT3TktzepgdJYrl1WBC6esHOy_yGG0atMSUd9gSXLkU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiqwRKdFY2yK9baiNL_Vd6CmMjZPQ2Eazk1iZaj0zt0hSiM9PG3kHxGOGrQOrnm0SaN3upSYgJj1kjoGXk4YpZms29xHe4_Cpb2f8BYfjri-3L_3VGwEmBb5w469ZHEZ11nvMhUE4h7cQ6Icav8do=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Jt3g5miFc6-nHwjaZYvAkC4brXY41XAvwko54pOu7_-S9P-9d-3BfWUD0HEk1GqbOi5jZVTN-Ls4iDx4f1TuiUchJQIijh6P4qmSZ_DxHFSUbdgiV40cAE9yBigXEBL4spJN71FESF6__MK7CPb2yQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Th0MDnCKyzwwfxb6YC_4V90cx6ncz_2aYTxtRzFwa1mujyQvXhuMuVt9ELJA7lvYQWAzz9-Et3HmLT-x3-uVfKeVH-neXGZ1ePkAkjEG6SK7JPhsRcUynKhyK57_aA0I4XnPZUl3wG7sYdBDp598Gr_vNUt2_N0o_eU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHqNxHODgmycl3Is2Aryaibmj0Ss_vS6hEps8CvJzEgINjbzmKkoI53EouBWsFjtvFWrZabQTxjdQMeF91QMUHF5f-C7g3QzNClqyViL8EWw611-Q-P9zQ1FZnsMw8ZVBWksEZMvcg45sGJsFZxUxTvbZAo9X2NHv8aOsrcuk-nlM7u7utlq-35ItRzlog9RzNacQExCvh",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGftnnSpEFYsVaLYhkz-ltD7HfyH7UcIupmzshUy14Gd9SaIZotxYEl3L1etLRvExEELDBP8SP8yDLcUwzNufHUSx5kvcMriEExG6P4kg9tH-nbJG5KRDyxOtyFAAmmH-nPa7LpZH01lCtp27bsAQrDkl1IDm4sZ0iZYGceZG-1p-bxcn4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlT8NfsFd0QXMFT2dMGjb2WgqkSUceYPD2OTEq-kaVYynn_XySU7NWexe8JV1DfDnrAjW7X3k4phA80WR5_FU3Z9BT2N2EpY3fqTPUXXLPm4lfr9lLvKGhp92srddID7Rz5MD2IT3jcRo=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2OQHne2AhnLmVfUWX45ZGdHolpx83wsP7cWWyYgAnxyk5u1Z-aWld1x9ZTNTtVRqeDrZYRn6E3UIQF9cNyn3dUt4va3EhlnLd4YMLR1UXA15tOTS4Vl9BUt-OqZ6s4GeJSkvYQgqWRjSWv9_sZjT-uzj",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF-N2t-S8WEe0vbYOqYzttCb7OoL_TOtxXIorh0nv9gKaETl0B-a8xo171ngGrwtJlOqUPwwxwsk6AbZgnDNVovBi0jh5OWAy9Rc4pM_zXoG-GeWMwAwjmVKoazRO-w08yGd4qvRE1qedkqENEZRmlA4Bo5WZqoKFgBAEhBqjt3Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTxS13BZ7IkWwdK8ofkwUfpxEFqpwjR3afwJbbEC0eSayyQ4g2dbUZFn5d3Tub8e-t_FYBI0d3zCtG4JOWri4WLxOezO79exVLqAbw_NFF4YTQopFebLDTRfvZ4bGM4iklfjTULzXR9xQsTuO_sk8nwuVTBmhX5fWua-D5IGXHzoAjMZaFzxi0jfg5N1n8pw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUtZ8AR04T_ttLwrzhbSncLb2umCF9Ll93uf6m2fPFmUqfbhPNAXA9GFoiAagwkFYczi8_tvXmEmxs-dh1oVMNz9MDUuExXPTpoCeg1T5CytZvmIGkgsab4d_muK-LLf2tTj1N8t01fDLJksGIKStWQogTSJRkDTGQ_OkbCCqlFwOFUgkHoGg=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX29uy7OckoKLayKZ-5Hp7n2nw9oQS8w7hcXDGq_oVo_3okCiIb8xrqulKyEYGX0bSDChOuhbHX7fRRM_vRZ7c1bN9NAQgL-n6nCQvPnNv5GCSXiwTqsUPN10GiNOLGV1p6_Pr4xo5NxZbzx4f6pQXAGxEZdM1RZHcqg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWbGu010GMppGCUGBis768V3FODFWa3VVCE56byXh0ceSTc-6FImtdj_RumtdovVxwGq5GAWjRWdtNlm1n3vc5jFcC5LB5tJSpCO07z8vEbPKPG5XNK2-2KiCfBaWtwrXHn9Nl_BGZx2M71_CteNwZBIUllkvZC-Uq7F4eumWwaBUQy2v9EgX8YiV3LwEWlDXB2W7Dk7RvXKEYTKB57g0BXpHt0wiW-P-Coqr8DjP7OgWnCPskOIKif8tbQSq6jRfn7r4CdMyg6rmtCYMN1oNCmkF0HGGZ0pq8aqm_oFb3cGOY0Nk-3Gz7NbTe7LDiQgMPAwMg9IAv-uFCe0ViY6kcpaX4ka2xnQGbUTjfSjT1pSJfXI82IVPjDwWnkQYWKynQWxsvKJh3vMlneDbGeJeafv2pZBGPUlzM9zlQhw=="
+      ],
+      "price_status": "web_sourced_unverified",
+      "collected_at": "2026-10-06T03:21:47.046935+00:00"
+    },
+    {
+      "id": "DL-052",
+      "profile": "web_tieu_chuan",
+      "profile_label": "Nhóm 2 người linh hoạt",
+      "party_size": 2,
+      "stay_nights": 2,
+      "travel_location": {
+        "name": "Khu du lịch sinh thái Thác Dray Nur",
+        "area": "Đắk Lắk",
+        "category": "du lịch sinh thái, thác nước",
+        "interest_tags": [
+          "thiên nhiên",
+          "cà phê"
+        ],
+        "entrance_cost_vnd_per_person": 30000
+      },
+      "hotel": {
+        "name": "Lucky Star Hotel",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 300925
+      },
+      "food": {
+        "item": "Bò nhúng me tại Cà Te Quán",
+        "cost_vnd_per_person_per_meal": 75000
+      },
+      "transport": {
+        "mode": "taxi du lịch 4 chỗ",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 700000
+      },
+      "sample_total_vnd": 1511850,
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsz1_zow3r5UFr1lU1eVUORda13EUfX09ZjlSti2WyP5qszAHBSn7sQ83qszKg44wd70Z1NiyRSXa7YuM5C0UO7Eg8vutR6K15B77zcx2kjzMPTMpmhJRAxETqG691nBPCWpQvvppvjxg9LuQ-KWB5gH_tQwFpZTYZ1B7JQpDQgYJOjnGfbJN23oJOClFAJQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc07L_5s7ynw5LoISkh33vFp9DkftXhntEHV7LFrp86RZ9FZxnCfGDJ5hY6YhhyOscp_hRzFiSFOret5Heu_Ii0R28bHoipDKeQnmkNH8dSRgeMwxMQujIFM1uoidKNBanSCZF18vzGpiPRzo7DxdxJxYTeHT85iF6JkVd8KPnZiDmNSmOPbQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbt3BLbvNn2wKNsS-lCF5aBLGXUWRbwghYXGGGyXcczH-ROllT-m7aWNij5voVMuC5Or0nrywvqpECz4-j2vpskAr4vPz-OuWWA3QrWtXdtzdoWOPNpyLsEeznE6C4FUs-htQWtrDFsMI-bBsGXruFZgnsiFgInJR5IAyNDHU8EuTlS5V5dFl",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ChSmax35Wss0aCrKktb0KJIaLiZ63bd9p2lVreTViaVHpSm2qS-bftWh0nPOKgm3WBSp8njbn7vHpcMRtjzN9ew3U0hZpb5dBnhmsVPzYINjQgZCk6DBQktWwyF3s_rYZABM1Jmr5T5wAVxLvTYvUZ8Y2Zr4rXGRAzLQli-akPih92q_xTKXXs_4Yz1pXOcJqAlr-xqz3Y6XmPc1LAfzB1DT",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIPuoJTgVWluAe0CPEVUu_tkWOkHSndX3o1R6x1NDXkZj3iiQ6HVSzrrW4g9pU7QhOrMHJfXER3Q_sTOYbQhf68G2J5f4qlbcnZYhI5xpIbvq5qPRk8FkloVNNLFI_XwoJpmJMC_xzCoRSM7WNp39HJtPMjLI3awWX0XR9S2sMN98dff7",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGty1u-CJLW3etb-Ynl2ZlJGzb0SsfN4ZCns2vbNhSMY-x_mQ-PgGPxo7x_y1CYnhmhHzkCUP5Jji87zEefU08UZxh3PKgAYRx0Sq3yvgcv4J2T0yTH0Km6aIGT3BDr5Zbf3-CeflDFLjWMttE0c_6C5sXismiJZ_iwaWxZgTnWwfOXY_Q=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDB8SdlhOenWkr-QVDET2P4ifdP7pDXTty_HAvID-cGkaIINlduMezY_cKhTjBpTv4N3HzsfCIIMkOBMlyHMFXyPog6WHVTbC1y4dlss2uEX6eNwg67z4aPgTTCesHuBaievPUWOvUmpAdUXpfllRqcUvzWQAwAnJ7Xfxn26-PszqJAEbc3MkUr0Oj"
+      ],
+      "price_status": "web_sourced_unverified",
+      "collected_at": "2026-10-06T03:25:02.602198+00:00"
+    },
+    {
+      "id": "DL-053",
+      "profile": "web_tieu_chuan",
+      "profile_label": "Nhóm 2 người linh hoạt",
+      "party_size": 2,
+      "stay_nights": 2,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "cà phê",
+          "bảo tàng"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": null,
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": null,
+        "cost_vnd_per_room_per_night": null
+      },
+      "food": {
+        "item": null,
+        "cost_vnd_per_person_per_meal": null
+      },
+      "transport": {
+        "mode": "Linh hoạt",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": null
+      },
+      "sample_total_vnd": null,
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCrPsCNNdXmIX5Gp36u0KAQd6pRCCusEL_NqDuKuOdNflas1zr-xd_5s9HpAB7b1QnaurY1GgQn2wbrKKPp3yYbqlKxLg9kGzIkCkz6CW-g8g-0seWYzOsRVkwZZ_DrnI9TPWoRYyD-wsLMvz8U2kdFvWnAU4Ko1hJVGtQ3swEb13gEXWihHfFB0pA4t5Ug0I9zML44hshwwfL0wQlgsrtR2BKB1VJjwWmOw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNXUTKGQ2rNaaa1f0_4pqZfZTpacuiyDdadhM6F2yeZef2WPdouordYPrnzW-KFPczeKrr2weCMXeM68iZpzm1WdUaykfKtweeP8oBSHzkjE3cLOV_6uWfC6dRugY4bH4pwCL9Dtx_uAs-fn-g",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqRx0t3jeY_rGC3QtP4d7oZFeRV0a3VPRcD8nzEpB5pEOeFNYNsGibEc96xNxmi7Zgu_tKK5bYAS_0ufolr8wHbj3rtlX8UoHATx87MvIglTt-_4ZIu_RyLLc7LfEIGdZtuJLXNnFAEk0h6DrgPWkLpwAwdPBrYL2q3kRDEV2up676XJ7f6PyhUfrFqde44emaYbGJbT81XUVEH1iTjDmp-xFeA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7fYjAWTpQq8x2pyebMZ3NJ2q9yuBZKRHlyz64tBypukQh_AgE4i4omf_ppUF5KdS3TKFIiF9PLMD5tP4_b4WNDBSM31muy87IhUpwisDVsWkFpjcv7E7k4wpgnU9aNuaKY73UCvc3Lk7MXeYp",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhbxTrqRGaGBfbiFGKTlBgwtO3EnxSs0h9C1N2rFWzBGoFZMrLkjb4YMZ80DdUg5V-2Xl2l4Dk6PTaI10muHu74liFLqlgXSEhj6jIBzLC4L5Ou4qi-xTIrCvekBJx0DZ2UByJ1GsUwFyhn8Ji7J9PTX1QpOsKLtdOhLPseA_9f79C8q37wTthg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4_SKEG3th5qSeog58TZO2j6leOmP096AnlHQwXz8czCJ-8FH2RelR4g1khBPBG1cMv_qI3bElc-4UXhIgXUWXe5dBwu-iYPkiQQIhaWnon5dR2BUu-TO0KiypwZkV_DKgcVVhAFKhRk3pwsyWEaNv0zaneA6HwBptDXP9VxgTkGTguoTU6g-E_CB8kyBZ3YnW",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUOg8sdseb8zZT3RnZCnuBxA82-9fmfUUmVda2vf2B9W3escTFo9y4GJTvw9iID0X-twVp7P2t6O-2l2Cu5NGluA9gklYoWmOCZ_fL"
+      ],
+      "price_status": "web_sourced_unverified",
+      "collected_at": "2026-10-06T03:25:21.559487+00:00"
+    },
+    {
+      "id": "DL-054",
+      "profile": "web_tieu_chuan",
+      "profile_label": "Nhóm 2 người, linh hoạt",
+      "party_size": 2,
+      "stay_nights": 2,
+      "travel_location": {
+        "name": "Bảo tàng Thế giới Cà phê",
+        "area": "Buôn Ma Thuột",
+        "category": "văn hóa cà phê",
+        "interest_tags": [
+          "thiên nhiên",
+          "cà phê"
+        ],
+        "entrance_cost_vnd_per_person": 150000
+      },
+      "hotel": {
+        "name": "Trung Nguyên Coffee Resort",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": 665000
+      },
+      "food": {
+        "item": "Bún đỏ Buôn Ma Thuột",
+        "cost_vnd_per_person_per_meal": null
+      },
+      "transport": {
+        "mode": null,
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Bảo tàng Thế giới Cà phê",
+        "cost_vnd_per_group_round_trip": null
+      },
+      "sample_total_vnd": null,
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HNFLkhKX-mAOkLnIulhD7ZBw19T_Z6AwObuOBBxRty8O-y1j9iF03I1Df3vMErRmuJu7APdPgF-IzA7Z0pn5fTtah-hO1RMFTr38GE5hVr1kGlAuv0b409-H3roVFyuztpQ4jkNqpG4nNozdlRHh66eY0oNvk_ytj3uc8TnO_dsob_meJ9JTlYAQWqWIJxPhTUWrCzdHXB9AA5KfwbfpgXKEDw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVfe3QE3weuNgj57DJd-zCcVKgMEXJbYh3cmeSApZVXh_L7I_x6Zdo5aNOUotJ8E_WrGKqIPxEtnUkFqvSC6NMCNyjJl9_ZSjZ07VSe_Ad2jwL3LgoX8FrcrP1ZCWK3rll_trbfoF8A7dk5BaF",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp9N13WEC5lj9mkFrchMK1iaO-Q5QVfP9ZQNeCu7zcXsOvCn0Yy7SnD5Wryff3Vfla2voOUjtww914orApjdWw3Hh8HbYaH9UAeCr51EvLGCCJXrXI4mfyTfzRDWxei3s4ehe8crHLkRLWj0UbOiyOPnkVHTP7UYOcys0mGcTvu-vsr3EpiC5bjQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGavIaeXZ6ZEg4AKMC3CMSB4H-zoNGMZanw0sabHAshL9nUydd5iDe13o3e8z8Rl_2f0oITn5BVf0Fns2BphSVvpZ355R13jdcQDEyqnslBk8hcWb0dobI6pQwt7-F19u5n9LilCtUJ3bvr63Za-_KIKWwanBqs",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4n1tkRnAk5tO1yvoAj7hMfcDto2MGYO2dWiBXY1vtCZDLjdtVQghGI3QbxsYCYskzdkf_F_ZkNwNVJrqFLYRcoHrtV5RxjGdVFcAtvj02OhdtoAWupzNYpGxe7xcah4NhJr7kdWbZ1qc3vpQANCiSisJBus2IBWOj_XrgTw1pFzxjReWhjuK4oT00KNgPy9-hFQ=="
+      ],
+      "price_status": "web_sourced_unverified",
+      "collected_at": "2026-10-06T03:30:00.303042+00:00"
+    },
+    {
+      "id": "DL-055",
+      "profile": "web_tieu_chuan",
+      "profile_label": "Nhóm 2 người linh hoạt",
+      "party_size": 2,
+      "stay_nights": 2,
+      "travel_location": {
+        "name": "Cụm thác Dray Nur – Gia Long & Thủ phủ Cà phê Buôn Ma Thuột",
+        "area": "Buôn Ma Thuột",
+        "category": "thiên nhiên và cà phê",
+        "interest_tags": [
+          "thiên nhiên",
+          "cà phê"
+        ],
+        "entrance_cost_vnd_per_person": null
+      },
+      "hotel": {
+        "name": "Khách sạn Mường Thanh Luxury Buôn Ma Thuột",
+        "area": "Buôn Ma Thuột",
+        "room_capacity_persons": 2,
+        "cost_vnd_per_room_per_night": null
+      },
+      "food": {
+        "item": null,
+        "cost_vnd_per_person_per_meal": null
+      },
+      "transport": {
+        "mode": "thuê xe máy linh hoạt",
+        "origin": "Trung tâm Buôn Ma Thuột",
+        "destination": "Thác Dray Nur",
+        "cost_vnd_per_group_round_trip": 600000
+      },
+      "sample_total_vnd": null,
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Thru8fgiUjdRuw4yLwq5IpXhQO8S__6Ao2mhXQRsohAmqDEoH9BPFuDDLHVwZeklrl0O9_oQlFeGvU-EJlneunkEjShfkO3NsP6fe7G5TnXHTLV-IAxUQIdQBdtl91Ezw54tP0CvmHe5loe976ZZ9Hk24kseQgmJ-F0xYqj4RkB8yAYxCsT22o4LoH3P4tOaIpn00EuLRLr5imehnA5UzQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqghm86VXVHdG8aG-7j0fxUHLQIIUEz56yiv0ly4dJ4UMqrTVZfQed-LMmFCuHIYnktMuvjYM7Zudp7NKgVUUz22VrsnfQxYNFsOv2_0UoK5GQNYTqQlT1nJzN1U099nAQiaY29XvBxOzDHm3oZNMEtDet7voT3xdFcoBmVfFeJYxntNJmzG67tBV8htcAhJ9c4kfN",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0kFU-nvEz8oboF7IeO7dJIh00Lbmx2sVxutF_3CafbKx6wAuT-WyN3kqcVXllxVXuz6BkgQPu4fMtCpt4Ku_P7EYyAovR2xpH4lTU_Dta6SN7Jwk9KFvUNwgVJ5d8vaqtJ3Wp55fPGesPkktVI9eVSL1bq0PoOoY5TOVbJolTSqZl9p8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcg94nSFmXxuIHCc-MIay-DmuncJ4C_BUF3HBSHO65HxudNrrwScCzZMZR-bNXAuYppiyTA1hCo7agh0yUxK4AkokbUWRTRTERxA4sqFBNUT0lMgwOwIGYhglkmiMl_TTfw9Jz75hojg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx4eTIJ9qfY0tRtTWgmqens8FwoMFOco8nGpl-oLZ1PZQsFiCRVLD2G9dRsTpDiEgDEWgLY1_3T5-7drUdIqlV8whACUtK2WH-SrWxVzJfLFhdqPfxYNKSnaBY7E8vRX5BQi2dRmNWTkHYhVWlM5afKk0HZqouT8hc-jnHGHvMN8RfpjWFDZhCRDAun74Da4yC2IRoBHM2eUYxs1Qe3c3FLDv10NIk6YEivCt-",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJI9DIwLx100iytAAm-StXCuEyuxgJ3irFuF9ZITLYUOYL0NRk_mnp4ORXveKhz9W6d_8Fb0xHDbJV4QqgqmelcA_2R26h-py17jWhkc_Fz8UNoNeOO4oizz13HWlFmFaDZyA2Zw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFppBRqXOn4q8i-j_vW5o7dz1oeDo1-OxJ-48FJ0R8M2gAsEBDmLSylIVyvMJNmCon-Cj4YQy0-gEIgCJAntVgROj12Jd1Xy5WmtiISzfSqCdJ1rvO086rtDuGgnOccA6mBrnWeT3VpuVsCeTKkoQR8UpGXqzTuZ3KYEpYj-vHg1hoPWwY2uc-MzoA8QETU4hEqFNcxPmHqHPqS7KjywlflvR7aaj9Ybaz8apVzdH_Davo_DW0RjTx2yIXUKA4ZY4cN76KFu3kEC1rd5QN2uRvdPvXgTrwCaYeMIjMzfIcTe_GGq1pNk7doSBWnsyDqWsOaPKxQThMae2WqWWH_2XTpn_0X7j2ffyveUdTSIVPYGNR_hpzg5K6f6roV7VTcvAuhr7hX7xYLdetaotbb",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcHZhWOe7Yvp7fpt5FZ_klsNbqUCQNGoKsRdW5wJDqDFw1RU86PW4uMRXvXZ2AWNO5bYoRx8HCT-7iB7ALJQVkb4k1Y40Ziauyv6A8hDxP82Yqo6xwmjcJVxcZe5Fg5B88jenr0a66qdmaMgdsGN5ExmtwyfvQi_LCxQESLDvW"
+      ],
+      "price_status": "web_sourced_unverified",
+      "collected_at": "2026-10-06T03:44:25.733347+00:00"
+    }
+  ]
+}
